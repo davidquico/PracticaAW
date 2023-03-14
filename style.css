@@ -1,0 +1,27 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+#header {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    background: #ffffffb9;
+}
+
+
+#main {
+    background: aqua;
+    height: 100%;
+}
+
+#footer {
+    background: #ffffff;
+    height: 10%;
+}
